@@ -46,6 +46,6 @@ LET'S START THE PROJECT NOW-
    we will feed an image to our model to generate a caption.
    
 FUTURE SCOPE OF THIS PROJECT:-
-   The model fails sometimes on outside image as it depends on data and so it cannot predict the words that are out of vocabulary. But we can improve the model by training it on    big datasets. Overall this is an advanced deep learning project and claers all our concepts.
-   and training for more epochs.
+   The model fails sometimes on outside image as it depends on data and so it cannot predict the words that are out of vocabulary. But we can improve the model by training it on    big datasets and training for more epochs. Overall this is an advanced deep learning project and clears all our concepts.
+   
    
